@@ -1,0 +1,2 @@
+# tiendita
+Proyecto teoría.
